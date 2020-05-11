@@ -24,7 +24,7 @@ end
 def id_hash_generator(number)
 integer_hash = {
    name: "Grace Hopper",
-   id: "28",
+   id: 28,
    hometown: "Seattle, WA"
   }
   integer_hash
