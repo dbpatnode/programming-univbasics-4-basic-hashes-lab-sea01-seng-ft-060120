@@ -6,7 +6,7 @@ end
 def my_hash
  my_info = {
    name: "Daniel Patnode",
-   age: "28"
+   age: "28",
    hometown: "Seattle, WA"
  }
  my_info
