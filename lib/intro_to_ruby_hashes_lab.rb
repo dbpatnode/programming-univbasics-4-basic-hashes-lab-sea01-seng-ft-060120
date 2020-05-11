@@ -18,7 +18,7 @@ def pioneer
    age: "28",
    hometown: "Seattle, WA"
   }
-  
+  hopper_hash
 end
 
 
