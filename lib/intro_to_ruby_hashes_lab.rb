@@ -9,6 +9,7 @@ def my_hash
    age: "28"
    hometown: "Seattle, WA"
  }
+ my_info
 end
 
 def pioneer
