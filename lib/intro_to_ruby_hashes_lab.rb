@@ -1,6 +1,5 @@
 def new_hash
-  fresh_hash=Hash.new
-  fresh_hash
+  Hash.new
 end
 
 def my_hash
@@ -22,10 +21,5 @@ def pioneer
 end
 
 def id_hash_generator(number)
-integer_hash = {
-   name: "Grace Hopper",
-   id: 5,
-   hometown: "Seattle, WA"
-  }
-  integer_hash
+{ id: number }
 end
