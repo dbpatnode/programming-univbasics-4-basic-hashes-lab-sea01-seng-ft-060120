@@ -14,7 +14,7 @@ end
 
 def pioneer
   hopper_hash = {
-   name: "Daniel Patnode",
+   name: "Grace Hopper",
    age: "28",
    hometown: "Seattle, WA"
   }
