@@ -13,7 +13,12 @@ def my_hash
 end
 
 def pioneer
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  hopper_hash = {
+   name: "Daniel Patnode",
+   age: "28",
+   hometown: "Seattle, WA"
+  }
+  
 end
 
 
